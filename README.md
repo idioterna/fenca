@@ -5,4 +5,4 @@ Nobody really knew when the dog was last fed and by whom, so now it says on the 
 
 https://www.youtube.com/watch?v=GfyER3_lK5o
 
-https://bou.si/ii/fenca-mon.jpg
+[components](https://bou.si/ii/fenca-mon.jpg "components)
